@@ -1,5 +1,5 @@
 h2{
-color:red;
+color:orange;
 font-family: verdana,Tahoma;
 
 
@@ -8,3 +8,11 @@ h3{
 font-family: sans-serif;
 
 }
+
+header{
+width:1000px;
+height:250px;
+background:orange;
+
+}
+
