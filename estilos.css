@@ -14,11 +14,11 @@
 	list-style: none;
 
 }
-.menu> li{
+menu> li{
 	position: relative;
 	display: inline-block;
 }
-.menu> li>a{
+menu> li>a{
 	display: block;
 	padding: 15px 20px;
 	color: #353535;
@@ -30,7 +30,7 @@ color: #CE7D35;
 transition: all .3s;
 }
 /*Submenu*/
-.submenu{
+submenu{
 	position: absolute;
 	background: #333333;
 	width: 120%;
@@ -46,7 +46,7 @@ transition: all .3s;
 	text-decoration: none;
 }
 
-.menu li :hover.submenu{
+menu li :hover.submenu{
 	visibility: visible;
 	opacity: 1;
 
